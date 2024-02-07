@@ -1,6 +1,6 @@
 ICRC тут изменение
 ICRC-1 еще одно
-agent-js
+agent-js еще одно
 agent-rs
 awesome-internet-computer
 bigmap-poc
