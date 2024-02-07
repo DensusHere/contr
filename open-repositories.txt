@@ -1,7 +1,7 @@
 ICRC тут изменение
 ICRC-1 еще одно
-agent-js еще одно
-agent-rs +!!!!!!!
+agent-js
+agent-rs
 awesome-internet-computer
 bigmap-poc
 cancan
