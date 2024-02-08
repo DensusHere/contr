@@ -1,4 +1,4 @@
-ICRC тут изменение
+ICRC
 ICRC-1
 agent-js
 agent-rs
