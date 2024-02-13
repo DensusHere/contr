@@ -1,7 +1,7 @@
 ICRC новое тестовое изменение
 ICRC-1 - еще одно
 agent-js - еще одно
-agent-rs
+agent-rs еще одно
 awesome-internet-computer
 bigmap-poc
 cancan42144
