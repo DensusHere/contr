@@ -1,4 +1,4 @@
-ICRC
+ICRC новое тестовое изменение
 ICRC-1
 agent-js
 agent-rs
