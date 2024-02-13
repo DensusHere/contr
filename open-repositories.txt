@@ -5,7 +5,7 @@ agent-rs еще одно
 awesome-internet-computer
 bigmap-poc
 cancan42144
-candid
+candid333
 canister-profiling
 cdk-rs
 cns
