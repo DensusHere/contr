@@ -1,5 +1,5 @@
 ICRC новое тестовое изменение
-ICRC-1
+ICRC-1 - еще одно
 agent-js
 agent-rs
 awesome-internet-computer
