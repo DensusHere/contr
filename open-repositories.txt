@@ -6,7 +6,7 @@ awesome-internet-computer14
 bigmap-poc
 cancan42144
 candid333
-canister-profiling
+canister-profiling22
 cdk-rs
 cns
 conventional-pr-title-action
