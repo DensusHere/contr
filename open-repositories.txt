@@ -1,9 +1,3 @@
-ICRC-1 - еще одно
-442242142144
-awesome-internet-computer14
-bigmap-poc11
-cancan42144
-candid333
 canister-profiling22
 cdk-rs
 cns
