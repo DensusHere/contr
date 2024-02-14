@@ -1,6 +1,6 @@
 canister-profiling22
 cdk-rs
-cns
+cns421214
 conventional-pr-title-action
 cycles-ledger
 decentralization
