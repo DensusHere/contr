@@ -2,7 +2,7 @@ ICRC-1 - еще одно
 agent-js - еще одно44
 agent-rs еще одно
 awesome-internet-computer14
-bigmap-poc
+bigmap-poc11
 cancan42144
 candid333
 canister-profiling22
