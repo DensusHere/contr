@@ -1,4 +1,3 @@
-ТЕСТ CRONA
 cdk-rs
 cns421214
 conventional-pr-title-action
